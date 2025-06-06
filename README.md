@@ -1,2 +1,0 @@
-# Caipora
-Site Caipora Senac
